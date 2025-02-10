@@ -1,4 +1,4 @@
-#Cryptix TX AI 
+# Cryptix TX AI 
 
 A lightweight AI that examines wallets for suspicious behavior (transactions / mining).
 
